@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "David",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "Sarah",
+      "age": 28
+    },
+    {
+      "id": "072a",
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": "0a55",
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": "3a69",
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": "7b73",
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": "0a0c",
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": "ad17",
+      "name": "John",
+      "age": 30
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
